@@ -13,3 +13,5 @@ patika.dev merge sort homework
 [16,11,21],[8,12,22] Artik son birlestirmeyi yapabiliriz
 
 [8,11,12,16,21,22]
+
+Big-O Gosterimi: O(n.logn)
